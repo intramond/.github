@@ -1,4 +1,4 @@
-![banner](/banner.png)
+![banner](/profile/banner.png)
 
 Intramond’s mission is to innovate the next layer of social interaction through immersive 3D experiences by utilizing research, advanced technologies, and implementing characteristics such as enhanced interaction features, realistic 3D design, and dynamic user interface systems.
 
